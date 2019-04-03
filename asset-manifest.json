@@ -1,5 +1,5 @@
 {
-  "main.css": "/react-memolist/static/css/main.5834f398.chunk.css",
+  "main.css": "/react-memolist/static/css/main.cc2470bc.chunk.css",
   "main.js": "/react-memolist/static/js/main.d7f7ff84.chunk.js",
   "main.js.map": "/react-memolist/static/js/main.d7f7ff84.chunk.js.map",
   "runtime~main.js": "/react-memolist/static/js/runtime~main.cb4315b7.js",
@@ -7,8 +7,8 @@
   "static/js/2.98dcc9dd.chunk.js": "/react-memolist/static/js/2.98dcc9dd.chunk.js",
   "static/js/2.98dcc9dd.chunk.js.map": "/react-memolist/static/js/2.98dcc9dd.chunk.js.map",
   "index.html": "/react-memolist/index.html",
-  "precache-manifest.30812b8a5c55f49ab71343681fd253c2.js": "/react-memolist/precache-manifest.30812b8a5c55f49ab71343681fd253c2.js",
+  "precache-manifest.828da4e5425813cbfc93cd1cda96809c.js": "/react-memolist/precache-manifest.828da4e5425813cbfc93cd1cda96809c.js",
   "service-worker.js": "/react-memolist/service-worker.js",
-  "static/css/main.5834f398.chunk.css.map": "/react-memolist/static/css/main.5834f398.chunk.css.map",
+  "static/css/main.cc2470bc.chunk.css.map": "/react-memolist/static/css/main.cc2470bc.chunk.css.map",
   "static/media/logo.svg": "/react-memolist/static/media/logo.5d5d9eef.svg"
 }

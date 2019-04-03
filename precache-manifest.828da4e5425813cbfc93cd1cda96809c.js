@@ -8,7 +8,7 @@ self.__precacheManifest = [
     "url": "/react-memolist/static/js/runtime~main.cb4315b7.js"
   },
   {
-    "revision": "0eb61fca4a1361536f23",
+    "revision": "7849401d16023e7180d9",
     "url": "/react-memolist/static/js/main.d7f7ff84.chunk.js"
   },
   {
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/react-memolist/static/js/2.98dcc9dd.chunk.js"
   },
   {
-    "revision": "0eb61fca4a1361536f23",
-    "url": "/react-memolist/static/css/main.5834f398.chunk.css"
+    "revision": "7849401d16023e7180d9",
+    "url": "/react-memolist/static/css/main.cc2470bc.chunk.css"
   },
   {
-    "revision": "6642ea9246020b177179780aefffeb9a",
+    "revision": "130b8bccdacb9487bd9677f18648d536",
     "url": "/react-memolist/index.html"
   }
 ];
